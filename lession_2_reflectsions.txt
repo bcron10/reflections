@@ -17,3 +17,11 @@ If you had a large section of a project to complete you could add it as a branch
 How do the diagrams help you visualize the branch structure?
 
 They show where the next commit will added to and they show the overall project progress
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One branch is left but all the commits are preserved. Only one branch is left.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Gits merging is quicker and easier. Always doing automatic merging might cause some problems
