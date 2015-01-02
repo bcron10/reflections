@@ -5,3 +5,15 @@ The .git folder is added a the system is ready to start version control on your 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a place to add multiple files before doing a commit. Its allow a user to see the progress of files towards the commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+In the staging area you can see and review the files you are going to commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you had a large section of a project to complete you could add it as a branch and merge it once completed
+
+How do the diagrams help you visualize the branch structure?
+
+They show where the next commit will added to and they show the overall project progress
