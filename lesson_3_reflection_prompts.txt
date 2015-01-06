@@ -13,3 +13,7 @@ Forks is just for Github it takes a clone of a repository just on Github and lin
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows you to see the current status of the remote repository and gives you an idea of what changes have been made to the repository
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Email changes between users. Easier to get started but not scalable across multiple users
