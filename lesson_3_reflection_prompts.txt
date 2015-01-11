@@ -17,3 +17,7 @@ It allows you to see the current status of the remote repository and gives you a
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Email changes between users. Easier to get started but not scalable across multiple users
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you are working on a seperate feature it makes sense to move to a branch to work on it and later when the feature is finished merge it back into the master branch. Just working on the master removes the need for the extra merges but doesn't work as well when you are a part of a team
